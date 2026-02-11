@@ -9,6 +9,8 @@ As I continue developing my skills in data analytics, I challenged myself to ana
 
 
 # PROJECTS
+- <a href="https://github.com/StarodubetsLM/Apple-Health-Data-Analysis/tree/main">Apple Health Data Analysis </a>
+
 
 
 
