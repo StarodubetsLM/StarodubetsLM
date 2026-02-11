@@ -1,6 +1,6 @@
 ## Hi, I am Liliia 👋
 
 
-<a href="https://linkedin.com/liliia-starodubets/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/liliia-starodubets/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a detail-oriented professional transitioning into data analytics, with a background in reporting, documentation management, and financial coordination. I am developing expertise in Power BI, SQL, and Python, and I am driven to turn data into actionable insights that enhance business performance.
