@@ -47,7 +47,7 @@ The Apple Health data was exported in XML format, which required significant pre
 
 :black_small_square: Working with XML strengthened my data transformation and data modeling skills.
 
-#### PROJECTS
+# PROJECTS
 
 
 
