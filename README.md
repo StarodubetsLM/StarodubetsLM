@@ -5,4 +5,16 @@
 
 I am a detail-oriented professional transitioning into data analytics, with a background in reporting, documentation management, and financial coordination. I am developing expertise in Power BI, SQL, and Python, and I am driven to turn data into actionable insights that enhance business performance.
 
-As part of my transition into data analytics, I wanted to work with real-world data that is both meaningful and practical. In this project, I analyzed my personal Apple Health data using Power BI to explore overall activity trends and uncover behavioral patterns.
+As I continue developing my skills in data analytics, I challenged myself to analyze my own Apple Health data. Using Power BI, I transformed raw health data into interactive dashboards to better understand my activity levels and identify patterns over time.
+
+## Project Objectives
+
+Analyze overall activity levels (steps, distance, calories burned, etc.)
+
+Identify daily, weekly, and monthly trends
+
+Compare weekday vs. weekend activity
+
+Detect recurring patterns in behavior
+
+Build an interactive dashboard for clear and actionable insights
